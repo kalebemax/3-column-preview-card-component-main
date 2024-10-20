@@ -8,8 +8,8 @@ This is my solution to the [3-column preview card component challenge on Fronten
 
 
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-component-GdeNKzBcw3)
+- Live Site URL: [GitHub](https://kalebemax.github.io/3-column-preview-card-component-main/)
 
 
 
@@ -19,7 +19,7 @@ This is my solution to the [3-column preview card component challenge on Fronten
 - CSS custom properties
 - Tailwind Css
 - Flexbox
-- Visual Studio Code
+- VS Code
 - Google Fonts
 - Git
 - Mobile-first workflow
